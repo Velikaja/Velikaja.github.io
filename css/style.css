@@ -1,0 +1,55 @@
+.name {
+    
+    color:#fff;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    position: relative;
+    margin-top: 6%; 
+
+
+}
+
+.top{
+  height: 200px;
+  background-image: url(../img/123.jpg);
+  background-size:cover;
+  background-position: center;
+  margin-top: 20px;
+  border-radius: 13px;
+  box-shadow: 2px 2px 25px 0.5px white;
+}
+
+
+body{
+  background-color: #000;
+}
+
+
+.main{
+  font-size: 60px;
+}
+
+.card{
+  margin-top: 30px;
+    
+    width: 100%;
+    text-align: center;
+    border-radius: 15px;
+}
+.card img{
+   border-radius: 15px;
+}
+
+.btn{
+  background-color: #000;
+  border-color: #000;
+  padding-left: 8%;
+  padding-right: 8%;
+}
+.card-title{
+  font-size: 25px;
+}
+
+.card-text{
+   font-size: 18px;
+}
